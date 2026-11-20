@@ -1,4 +1,4 @@
-// ADC1 read with Wi-Fi connected - not compiled yet
+// ADC1 read with Wi-Fi connected - compiles, not yet tested on hardware
 #include <WiFi.h>
 
 const char* WIFI_SSID = "YourWiFi";

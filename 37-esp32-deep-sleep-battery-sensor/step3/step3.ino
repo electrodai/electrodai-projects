@@ -1,4 +1,4 @@
-// ESP32 deep sleep: timer + button wake, RTC counter - not compiled yet
+// ESP32 deep sleep: timer + button wake, RTC counter - compiles, not yet tested on hardware
 #include <Arduino.h>
 
 const int  SENSOR_PIN = 34;                    // ADC1

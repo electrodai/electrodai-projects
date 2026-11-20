@@ -1,4 +1,4 @@
-// Dual axis solar tracker - not compiled yet
+// Dual axis solar tracker - compiles, not yet tested on hardware
 #include <Servo.h>
 
 const bool DUAL_AXIS = true;

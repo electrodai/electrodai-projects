@@ -1,4 +1,4 @@
-// Run the gesture model on ESP32 - not compiled yet
+// Run the gesture model on ESP32 - needs the Arduino library exported from your Edge Impulse project
 #include <gestures_inferencing.h>   // change to your project's header
 #include <Wire.h>
 

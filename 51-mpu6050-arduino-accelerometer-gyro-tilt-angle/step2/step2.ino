@@ -1,4 +1,4 @@
-// MPU6050 tilt angle with complementary filter - not compiled yet
+// MPU6050 tilt angle with complementary filter - compiles, not yet tested on hardware
 #include <Wire.h>
 
 const int MPU = 0x68;

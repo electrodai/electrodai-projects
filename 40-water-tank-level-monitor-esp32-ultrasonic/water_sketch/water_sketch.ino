@@ -1,4 +1,4 @@
-// ESP32 tank level monitor with night leak check - not compiled yet
+// ESP32 tank level monitor with night leak check - compiles, not yet tested on hardware
 #include <WiFi.h>
 #include <WebServer.h>
 #include <time.h>

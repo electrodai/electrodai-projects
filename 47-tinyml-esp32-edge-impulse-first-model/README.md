@@ -4,7 +4,7 @@ Train a gesture recognition model with Edge Impulse and run it on an ESP32 with 
 
 **Full tutorial (wiring table, explanation, troubleshooting):** https://electrodai.com/tutorial/tinyml-esp32-edge-impulse-first-model
 
-> ⚠️ Some code here is marked **untested / not yet compiled** in the tutorial. Test on your own board first and report issues.
+> ✅ `step1` compiles (checked with Arduino CLI, November 2026). `step2` runs your own trained model, so it needs the Arduino library you export from your Edge Impulse project (`gestures_inferencing.h`, the name depends on your project) before it can compile. Not yet tested on real hardware — [open an issue](https://github.com/electrodai/electrodai-projects/issues) if something does not work.
 
 ## Files
 

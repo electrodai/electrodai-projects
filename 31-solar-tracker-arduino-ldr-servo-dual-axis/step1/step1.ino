@@ -1,4 +1,4 @@
-// LDR test - not compiled yet
+// LDR test - compiles, not yet tested on hardware
 void setup() { Serial.begin(9600); }
 void loop() {
   Serial.print(analogRead(A0)); Serial.print("\t");

@@ -1,4 +1,4 @@
-// Obstacle avoiding car - not compiled yet
+// Obstacle avoiding car - compiles, not yet tested on hardware
 #include <Servo.h>
 
 const int TRIG = 2, ECHO = 3, SERVO_PIN = 11;

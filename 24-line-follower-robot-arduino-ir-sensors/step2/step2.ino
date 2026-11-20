@@ -1,4 +1,4 @@
-// Two-sensor line follower - not compiled yet
+// Two-sensor line follower - compiles, not yet tested on hardware
 const int LEFT_IR  = 2;
 const int RIGHT_IR = 3;
 

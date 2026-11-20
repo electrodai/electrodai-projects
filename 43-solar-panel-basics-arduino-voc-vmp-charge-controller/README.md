@@ -4,7 +4,7 @@ Read a solar panel label (Voc, Vmp, Isc, Imp), measure a small panel with a mult
 
 **Full tutorial (wiring table, explanation, troubleshooting):** https://electrodai.com/tutorial/solar-panel-basics-arduino-voc-vmp-charge-controller
 
-> ⚠️ Some code here is marked **untested / not yet compiled** in the tutorial. Test on your own board first and report issues.
+> ✅ Every sketch here compiles (checked with Arduino CLI, November 2026). Not all of them have been tested on real hardware yet — try it on your board and [open an issue](https://github.com/electrodai/electrodai-projects/issues) if something does not work.
 
 ## Files
 

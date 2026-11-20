@@ -1,4 +1,4 @@
-// Battery voltage monitor with low-battery alarm - not compiled yet
+// Battery voltage monitor with low-battery alarm - compiles, not yet tested on hardware
 const int BAT_PIN    = A0;
 const int BUZZER_PIN = 8;
 const int LED_PIN    = 7;

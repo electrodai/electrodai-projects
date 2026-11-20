@@ -4,7 +4,7 @@ Build a solar tracker with Arduino, four LDRs and two servos: single and dual ax
 
 **Full tutorial (wiring table, explanation, troubleshooting):** https://electrodai.com/tutorial/solar-tracker-arduino-ldr-servo-dual-axis
 
-> ⚠️ Some code here is marked **untested / not yet compiled** in the tutorial. Test on your own board first and report issues.
+> ✅ Every sketch here compiles (checked with Arduino CLI, November 2026). Not all of them have been tested on real hardware yet — try it on your board and [open an issue](https://github.com/electrodai/electrodai-projects/issues) if something does not work.
 
 ## Files
 

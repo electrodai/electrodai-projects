@@ -1,4 +1,4 @@
-// Smart dustbin - not compiled yet
+// Smart dustbin - compiles, not yet tested on hardware
 #include <Servo.h>
 
 const int HAND_TRIG = 9, HAND_ECHO = 10;

@@ -1,4 +1,4 @@
-// ESP32 DHT11 -> MQTT publisher - not compiled yet
+// ESP32 DHT11 -> MQTT publisher - compiles, not yet tested on hardware
 #include <WiFi.h>
 #include <PubSubClient.h>
 #include <DHT.h>

@@ -1,4 +1,4 @@
-// Data forwarder sketch: MPU6050 accel at 50 Hz - not compiled yet
+// Data forwarder sketch: MPU6050 accel at 50 Hz - compiles, not yet tested on hardware
 #include <Wire.h>
 
 const int MPU = 0x68;

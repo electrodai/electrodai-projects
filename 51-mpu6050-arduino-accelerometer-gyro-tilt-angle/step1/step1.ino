@@ -1,4 +1,4 @@
-// I2C scanner - not compiled yet
+// I2C scanner - compiles, not yet tested on hardware
 #include <Wire.h>
 
 void setup() {

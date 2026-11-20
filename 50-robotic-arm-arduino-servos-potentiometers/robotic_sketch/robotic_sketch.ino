@@ -1,4 +1,4 @@
-// 4-servo robotic arm with potentiometers - not compiled yet
+// 4-servo robotic arm with potentiometers - compiles, not yet tested on hardware
 #include <Servo.h>
 
 const int NUM = 4;

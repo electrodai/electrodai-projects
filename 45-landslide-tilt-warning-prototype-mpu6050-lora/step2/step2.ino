@@ -1,4 +1,4 @@
-// LoRa gateway with buzzer - not compiled yet
+// LoRa gateway with buzzer - compiles, not yet tested on hardware
 #include <SPI.h>
 #include <LoRa.h>
 

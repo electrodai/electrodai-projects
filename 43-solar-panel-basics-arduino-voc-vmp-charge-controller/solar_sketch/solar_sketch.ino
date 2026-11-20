@@ -1,4 +1,4 @@
-// Solar panel voltage logger - not compiled yet
+// Solar panel voltage logger - compiles, not yet tested on hardware
 const int PANEL_PIN = A0;
 const float R1 = 39000.0;   // top resistor (ohms)
 const float R2 = 10000.0;   // bottom resistor (ohms)

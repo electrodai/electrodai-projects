@@ -1,4 +1,4 @@
-// RFID reader: prints card UID over serial - not compiled yet
+// RFID reader: prints card UID over serial - compiles, not yet tested on hardware
 #include <SPI.h>
 #include <MFRC522.h>
 

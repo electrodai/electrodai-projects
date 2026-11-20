@@ -1,4 +1,4 @@
-// Tilt sensor node (learning prototype) - not compiled yet
+// Tilt sensor node (learning prototype) - compiles, not yet tested on hardware
 #include <Wire.h>
 #include <SPI.h>
 #include <LoRa.h>

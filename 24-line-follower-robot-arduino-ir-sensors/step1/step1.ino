@@ -1,4 +1,4 @@
-// Sensor test - not compiled yet, check on your board
+// Sensor test - compiles, not yet tested on hardware, check on your board
 void setup() {
   Serial.begin(9600);
   pinMode(2, INPUT);

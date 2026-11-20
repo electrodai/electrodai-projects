@@ -1,4 +1,4 @@
-// Arduino: receive one-letter commands from the Pi - not compiled yet
+// Arduino: receive one-letter commands from the Pi - compiles, not yet tested on hardware
 const int LED = 13;
 
 void setup() {

@@ -1,4 +1,4 @@
-// Bluetooth car with HC-05 - not compiled yet
+// Bluetooth car with HC-05 - compiles, not yet tested on hardware
 #include <SoftwareSerial.h>
 
 SoftwareSerial bt(10, 11);   // RX = D10 (from HC-05 TX), TX = D11 (via divider)

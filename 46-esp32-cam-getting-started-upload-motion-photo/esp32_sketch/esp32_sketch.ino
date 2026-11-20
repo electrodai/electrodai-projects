@@ -1,4 +1,4 @@
-// ESP32-CAM PIR motion photo to SD card - not compiled yet
+// ESP32-CAM PIR motion photo to SD card - compiles, not yet tested on hardware
 #include "esp_camera.h"
 #include "FS.h"
 #include "SD_MMC.h"
